@@ -1,5 +1,6 @@
 # mayurkini-Customer-Insights-Data-Management-SQL-
 Customer Insights & Data Management
+
 Overview
 This project aims to provide valuable insights into customer behavior, sales trends, and marketing effectiveness by analyzing a comprehensive dataset. The dataset consists of three key tables: Fact Table, Product Table, and Location Table, each containing essential information for the analysis.
 
